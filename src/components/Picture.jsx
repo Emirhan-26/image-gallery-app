@@ -14,4 +14,4 @@ const Picture = ({ photographer, src }) => {
   )
 }
 
-export default Picture
+export default Picture 
